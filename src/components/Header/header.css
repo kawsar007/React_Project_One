@@ -1,0 +1,21 @@
+.header {
+    background: #242424;
+    border-bottom: 1px solid #000000;
+}
+
+.headerOpt {
+    display: flex;
+}
+
+.headerOpt p {
+   color: white;
+}
+
+.logo {
+    flex-grow: 1;
+    padding-top: 5px;
+}
+
+.logo img {
+    width: 80px;
+}
